@@ -1,4 +1,6 @@
-### Welcome to my GitHub 👨🏼‍💻 
+<div style="text-align:center">
+  
+### Welcome to my GitHub ! 👨🏼‍💻 
 
 <!--
 **Sherlac/sherlac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
+***I am a Front-End Developer & active self-learner.*** </br>
+Have a look around my Master Index to see what I've worked on previously. </br>
+You can connect with me via [my website](https://charles-mariot.fr) or follow me on [Twitter](https://twitter.com/charles_mariot).
+
+</div>
