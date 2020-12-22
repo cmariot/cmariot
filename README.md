@@ -1,4 +1,4 @@
-### Welcome to my GitHub 👋
+### Welcome to my GitHub 👨🏼‍💻 
 
 <!--
 **Sherlac/sherlac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
