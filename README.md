@@ -1,10 +1,10 @@
-# Welcome to my GitHub profile !
+# Hello world ! 👋
 
-I'm a developer currently studying at École 42. Here's some information about me:
+I'm Charles, a passionate developer with a focus on machine learning and artificial intelligence.
 
-- 📚 I'm currently learning several programming languages, including C, C++, Python, and TypeScript.
-- 💻 I enjoy working on software development projects, especially ones that involve solving complex problems.
-- 🌱 I'm also interested in machine learning and artificial intelligence.
-- 🤝 I'm always open to collaborations and open-source projects.
+- 💡 I thrive on crafting elegant solutions to complex problems through software development. From code architecture to implementation, I enjoy the entire process.
+- 🌱 My programming adventures have led me through languages like C, C++, TypeScript, and Python.
+- 🔭 I'm actively seeking opportunities to apply my skills and knowledge in real-world projects. If you have an exciting project or collaboration in mind, let's connect!
 
-Feel free to check out my projects on GitHub and contact me if you have any questions or project ideas to share !
+Feel free to explore my GitHub projects and repositories. Let's join forces and make something incredible together.
+Connect with me if you want to chat, collaborate, or share your groundbreaking project ideas!
