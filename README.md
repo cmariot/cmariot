@@ -1,10 +1,25 @@
-# Hello world ! 👋
+# 👋 Welcome!  
 
-I'm Charles, a passionate developer with a focus on machine learning and artificial intelligence.
+I'm a passionate developer who loves building projects that combine **technology** and **real-world impact**. Whether it's **AI**, **blockchain**, or other domains, I'm always exploring and creating innovative solutions.  
 
-- 💡 I thrive on crafting elegant solutions to complex problems through software development. From code architecture to implementation, I enjoy the entire process.
-- 🌱 My programming adventures have led me through languages like C, C++, TypeScript, and Python.
-- 🔭 I'm actively seeking opportunities to apply my skills and knowledge in real-world projects. If you have an exciting project or collaboration in mind, let's connect!
+---
 
-Feel free to explore my GitHub projects and repositories. Let's join forces and make something incredible together.
-Connect with me if you want to chat, collaborate, or share your groundbreaking project ideas!
+## 🚀 What I Love to Build  
+- **🧠 AI & Machine Learning** – Classification models, reinforcement learning
+- **🕸️ Web & Interactive Platforms** – SPAs, real-time applications, user-driven experiences   
+- **🔗 Blockchain** – Smart contracts, decentralized finance, NFTs  
+- **🌍 Impactful Projects** – Healthcare accessibility, social impact solutions  
+
+---
+
+## 🛠️ Tools & Technologies  
+- **Languages:** Python, C, C++, Rust, JavaScript, Solidity
+- **Frameworks:** Django, React, PyTorch, Tensorflow
+- **Databases:** PostgreSQL
+- **Tools:** Git, Docker, Kubernetes
+
+---
+
+## 🤝 Let's Work Together!  
+I'm always open to **opportunities** where I can apply my skills to innovative and meaningful projects.  
+If you have an **idea**, a **project**, or a **job offer**, feel free to reach out!  
