@@ -7,7 +7,7 @@ I'm a passionate developer who loves building projects that combine **technology
 ## 🚀 What I Love to Build  
 - **🧠 AI & Machine Learning** – Classification models, reinforcement learning
 - **🕸️ Web & Interactive Platforms** – SPAs, real-time applications, user-driven experiences   
-- **🔗 Blockchain** – Smart contracts, decentralized finance, NFTs  
+- **💬 LLM** – Integration, RAG, Agents
 - **🌍 Impactful Projects** – Healthcare accessibility, social impact solutions  
 
 ---
